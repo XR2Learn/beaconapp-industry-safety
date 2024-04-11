@@ -1,0 +1,153 @@
+{
+  "constants": {
+    "startIteration": 0,
+    "iterationCount": 5000,
+    "randomSeed": 539662031
+  },
+  "randomizers": {
+    "randomizerGroups": [
+      {
+        "randomizerId": "ActiveChildrenRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {}
+      },
+      {
+        "randomizerId": "GridRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {}
+      },
+      {
+        "randomizerId": "ActivateHumanRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {}
+      },
+      {
+        "randomizerId": "WearablesRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {}
+      },
+      {
+        "randomizerId": "HueRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {}
+      },
+      {
+        "randomizerId": "RealObjectTextureRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {}
+      },
+      {
+        "randomizerId": "ScaleRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {
+          "scale": {
+            "param": {
+              "metadata": {
+                "name": "",
+                "description": "",
+                "imageLink": ""
+              },
+              "items": {
+                "value": {
+                  "samplerOptions": {
+                    "metadata": {
+                      "name": "",
+                      "description": "",
+                      "imageLink": ""
+                    },
+                    "uniform": {
+                      "min": 1.2999999523162842,
+                      "max": 1.7999999523162842
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "randomizerId": "ForegroundObjectRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {}
+      },
+      {
+        "randomizerId": "CustomTextureRandomizer",
+        "metadata": {
+          "name": "",
+          "description": "",
+          "imageLink": ""
+        },
+        "state": {
+          "enabled": true,
+          "canBeSwitchedByUser": true
+        },
+        "items": {}
+      }
+    ]
+  }
+}
