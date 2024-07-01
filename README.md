@@ -1,10 +1,10 @@
 ![XR2Learn](https://github.com/XR2Learn/.github/blob/main/images/XR2Learn%20logo.png)
 
-# Beacon Application 3
+# Industry Safety Application 
 
 ## Overview
 
-Beacon Application 3 is a project focused on hazard detection in industrial conditions by real-time recognizing the presence or the absence of required safety equipment in people.
+Industry safety application (BA3) is a project focused on hazard detection in industrial conditions by real-time recognizing the presence or the absence of required safety equipment in people.
 
 Object detection is achieved by fine tuning a pretrained object detection algorithm, YOLOv5 specifically, with a synthetic dataset generated specifically for this project.
 
